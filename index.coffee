@@ -16,8 +16,8 @@ server = http.createServer (req, res) ->
     else
       index req, res, done
 
-server.listen 3000, () ->
-  console.log "Starting web server"
+server.listen 80, () ->
+  console.log "Starting web server on port 80"
 
 
 options =
