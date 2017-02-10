@@ -6,10 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Matthew Henry John Bartlett",
+  "repository": "git@github.com:mhjb/weathershots.git",
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.12.3",
+    "connect": "^3.5.0",
+    "finalhandler": "^0.5.1",
+    "serve-index": "^1.8.0",
+    "serve-static": "^1.11.2",
     "webshot": "^0.18.0"
   }
 }
