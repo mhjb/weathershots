@@ -13,7 +13,10 @@
     "coffee-script": "^1.12.3",
     "connect": "^3.5.0",
     "finalhandler": "^0.5.1",
+    "fs": "0.0.1-security",
+    "gifencoder": "^1.0.6",
     "moment": "^2.17.1",
+    "png-file-stream": "^1.0.0",
     "serve-index": "^1.8.0",
     "serve-static": "^1.11.2",
     "webshot": "^0.18.0"
